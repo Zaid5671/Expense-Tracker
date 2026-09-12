@@ -1,0 +1,10 @@
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+expense_tracker.db
+.env
+.pytest_cache/
